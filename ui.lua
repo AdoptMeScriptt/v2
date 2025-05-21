@@ -1,5 +1,3 @@
-‎-- Roblox Loading to Pet Spawner GUI
-‎
 ‎local gui = Instance.new("ScreenGui")
 ‎gui.Name = "LoadingScriptGUI"
 ‎
